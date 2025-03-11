@@ -1,0 +1,12 @@
+.home {
+  overflow-x: hidden;
+}
+.custom-project-summary {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.custom-project-summary .model {
+  flex-shrink: 0;
+  margin-right: 40px; /* Tạo khoảng cách giữa model và text */
+}
