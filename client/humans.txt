@@ -1,0 +1,22 @@
+﻿ _   _   ___   _
+| |_| | |   \ | |
+| |_| | | |\ \| |
+|_| |_| |_| \___| 
+Humans.txt giải thích về nhóm, công nghệ
+và nội dung đồ họa đằng sau trang web này humanstxt.org.
+_______________________________________________________________________________
+
+THIẾT KẾ | DESIGNER
+
+Nguyen Pham Hai Nam
+phát triển web
+
+_______________________________________________________________________________
+
+CÔNG NGHỆ | TECHNOLOGY
+
+React
+Remix
+Three.js
+Framer Motion
+
